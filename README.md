@@ -1,1 +1,1 @@
-# crispy-computing-machine
+# Data science projects
